@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yaGzpvDWICASFl0H87j5Nmce9KBD5gzuEt3LiE9+rwIJ54tjX6f7zgIm/yZSLu6/FEn4vKo3WsBGmm7THMqs0w==",
+  "success": true,
+  "projectFilePath": "D:\\Delete\\SignalREx\\SignalREx\\SignalREx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pankajj\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\pankajj\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
